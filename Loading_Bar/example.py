@@ -6,6 +6,7 @@ from time import sleep
 
 '''
     the usage is pretty simple
+    import the Loadbar -> from doubleload import Loadbar
     call the Loadbar object
     for example: myload = Loadbar('name of task',N) where N is the number of total iterations
 
